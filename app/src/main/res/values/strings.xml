@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment04</string>
+    
+    <string name="level_1">&lt;$25k</string>
+    <string name="level_2">$25k to &lt;$50k</string>
+    <string name="level_3">$50k to &lt;$100k</string>
+    <string name="level_4">$100k to &lt;$200k</string>
+    <string name="level_5">&gt;$200k</string>
+
+</resources>
